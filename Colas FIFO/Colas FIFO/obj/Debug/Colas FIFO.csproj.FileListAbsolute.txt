@@ -1,0 +1,9 @@
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\bin\Debug\Colas FIFO.exe.config
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\bin\Debug\Colas FIFO.exe
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\bin\Debug\Colas FIFO.pdb
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.csprojResolveAssemblyReference.cache
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\obj\Debug\Colas_FIFO.Form1.resources
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\obj\Debug\Colas_FIFO.Properties.Resources.resources
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.csproj.GenerateResource.Cache
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.exe
+C:\Users\Noel Camacho\Desktop\Colas FIFO\Colas FIFO\obj\Debug\Colas FIFO.pdb
